@@ -1,1 +1,1 @@
-# snake-game-in-pygame-
+# snakegame-pygame-
